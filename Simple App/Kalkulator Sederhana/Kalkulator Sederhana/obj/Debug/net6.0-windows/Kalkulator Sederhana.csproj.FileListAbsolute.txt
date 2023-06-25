@@ -1,0 +1,17 @@
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net6.0-windows\Kalkulator Sederhana.exe
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net6.0-windows\Kalkulator Sederhana.deps.json
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net6.0-windows\Kalkulator Sederhana.runtimeconfig.json
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net6.0-windows\Kalkulator Sederhana.dll
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net6.0-windows\Kalkulator Sederhana.pdb
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net6.0-windows\Kalkulator Sederhana.csproj.AssemblyReference.cache
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net6.0-windows\Kalkulator_Sederhana.Form1.resources
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net6.0-windows\Kalkulator Sederhana.csproj.GenerateResource.cache
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net6.0-windows\Kalkulator Sederhana.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net6.0-windows\Kalkulator Sederhana.AssemblyInfoInputs.cache
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net6.0-windows\Kalkulator Sederhana.AssemblyInfo.cs
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net6.0-windows\Kalkulator Sederhana.csproj.CoreCompileInputs.cache
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net6.0-windows\Kalkulator Sederhana.dll
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net6.0-windows\refint\Kalkulator Sederhana.dll
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net6.0-windows\Kalkulator Sederhana.pdb
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net6.0-windows\Kalkulator Sederhana.genruntimeconfig.cache
+D:\Ghani\Tugas\PBKK\Simple Calculator\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net6.0-windows\ref\Kalkulator Sederhana.dll
